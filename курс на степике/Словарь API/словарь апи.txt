@@ -1,0 +1,11 @@
+Request - отправляемый запрос на сервер.
+Response - ответ от сервера.
+Headers - заголовки.
+Response Body - тело ответа.
+Request Body - тело запроса.
+URI (Uniform Resource Identifier) - полный адрес, по которому происходит обращение. Пример: https://www.youtube.com/watch?v=e_atyw0IDqg
+Endpoint - часть адреса, идущая после доменного имени (например, после .com/). Пример: /watch?v=e_atyw0IDqg
+Query-параметры - часть URI, следующая после ?. Пример: ?v=e_atyw0IDqg
+URL (Uniform Resource Locator) - комбинация протокола и доменного имени. Пример: https://www.youtube.com
+БД - база данных.
+Cookie - небольшие фрагменты данных, которые хранятся как на стороне клиента, так и на стороне сервера, и служат в целях идентификации.
